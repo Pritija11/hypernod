@@ -1,3 +1,4 @@
+export const dynamic = "force-static";
 import { ImageResponse } from "next/og";
 import { buildBrandImageElement, OG_SIZE } from "@/lib/og-image";
 
